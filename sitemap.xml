@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/post/1/</loc>
+    <loc>https://blog.521567.xyz/post/1/</loc>
     <lastmod>2025-06-23T06:51:38+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://blog.521567.xyz/post/</loc>
     <lastmod>2025-06-23T06:51:38+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://blog.521567.xyz/</loc>
     <lastmod>2025-06-23T06:51:38+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://blog.521567.xyz/post/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2025-06-23T06:43:06+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://blog.521567.xyz/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://blog.521567.xyz/tags/</loc>
   </url>
 </urlset>
