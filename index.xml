@@ -2,31 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xtn Blog</title>
-    <link>https://blog.521567.xyz/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Xtn Blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 24 Jun 2025 05:49:46 +0800</lastBuildDate>
-    <atom:link href="https://blog.521567.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Jun 2025 13:06:53 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>本站主题主题教程</title>
+      <link>http://localhost:1313/post/%E6%9C%AC%E7%AB%99%E4%B8%BB%E9%A2%98%E4%B8%BB%E9%A2%98%E6%95%99%E7%A8%8B/</link>
+      <pubDate>Tue, 24 Jun 2025 13:06:53 +0800</pubDate>
+      <guid>http://localhost:1313/post/%E6%9C%AC%E7%AB%99%E4%B8%BB%E9%A2%98%E4%B8%BB%E9%A2%98%E6%95%99%E7%A8%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>原版主题教程</title>
+      <link>http://localhost:1313/post/%E5%8E%9F%E7%89%88%E4%B8%BB%E9%A2%98%E6%95%99%E7%A8%8B/</link>
+      <pubDate>Tue, 24 Jun 2025 13:06:41 +0800</pubDate>
+      <guid>http://localhost:1313/post/%E5%8E%9F%E7%89%88%E4%B8%BB%E9%A2%98%E6%95%99%E7%A8%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Me</title>
+      <link>http://localhost:1313/post/me/</link>
+      <pubDate>Tue, 24 Jun 2025 12:28:10 +0800</pubDate>
+      <guid>http://localhost:1313/post/me/</guid>
+      <description>&lt;p&gt;关于我&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>给自己的Hugo添加不蒜子浏览次数与阅读次数统计</title>
+      <link>http://localhost:1313/post/hugo-busuanzi/</link>
+      <pubDate>Tue, 24 Jun 2025 12:06:37 +0800</pubDate>
+      <guid>http://localhost:1313/post/hugo-busuanzi/</guid>
+      <description>&lt;p&gt;在head.html，footer.html，single.html，config.toml进行修改&lt;/p&gt;&#xA;&lt;p&gt;head.html&#xA;我的的路径为layouts\partials\head.html&#xA;添加以下代码&lt;/p&gt;</description>
+    </item>
     <item>
       <title>One</title>
-      <link>https://blog.521567.xyz/post/one/</link>
+      <link>http://localhost:1313/post/one/</link>
       <pubDate>Tue, 24 Jun 2025 05:49:46 +0800</pubDate>
-      <guid>https://blog.521567.xyz/post/one/</guid>
-      <description>&lt;p&gt;这是给自己的一篇hugo文章各种配置示例。&lt;/p&gt;</description>
+      <guid>http://localhost:1313/post/one/</guid>
+      <description>&lt;h1 id=&#34;这是给自己的一篇-hugo-文章各种配置示例&#34;&gt;这是给自己的一篇 hugo 文章各种配置示例。&lt;/h1&gt;</description>
     </item>
     <item>
       <title>1</title>
-      <link>https://blog.521567.xyz/post/1/</link>
+      <link>http://localhost:1313/post/1/</link>
       <pubDate>Mon, 23 Jun 2025 06:51:38 +0800</pubDate>
-      <guid>https://blog.521567.xyz/post/1/</guid>
+      <guid>http://localhost:1313/post/1/</guid>
       <description>&lt;p&gt;hello 大家好&lt;/p&gt;</description>
     </item>
     <item>
       <title>测试</title>
-      <link>https://blog.521567.xyz/post/%E6%B5%8B%E8%AF%95/</link>
+      <link>http://localhost:1313/post/%E6%B5%8B%E8%AF%95/</link>
       <pubDate>Mon, 23 Jun 2025 06:43:06 +0800</pubDate>
-      <guid>https://blog.521567.xyz/post/%E6%B5%8B%E8%AF%95/</guid>
+      <guid>http://localhost:1313/post/%E6%B5%8B%E8%AF%95/</guid>
       <description>&lt;p&gt;猫猫&lt;/p&gt;</description>
     </item>
   </channel>
