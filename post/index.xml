@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Xtn Blog</title>
-    <link>http://blog.521567.xyz/post/</link>
+    <link>https://blog.521567.xyz/post/</link>
     <description>Recent content in Posts on Xtn Blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 24 Jun 2025 14:25:52 +0800</lastBuildDate>
-    <atom:link href="http://blog.521567.xyz/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.521567.xyz/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Clouddlare IP</title>
-      <link>http://blog.521567.xyz/post/cloudflareip/</link>
+      <link>https://blog.521567.xyz/post/cloudflareip/</link>
       <pubDate>Tue, 24 Jun 2025 14:25:52 +0800</pubDate>
-      <guid>http://blog.521567.xyz/post/cloudflareip/</guid>
+      <guid>https://blog.521567.xyz/post/cloudflareip/</guid>
       <description>&lt;p&gt;cloudflare分配到好IP是真爽啊&lt;/p&gt;</description>
     </item>
     <item>
       <title>企业微信自建应用API教程</title>
-      <link>http://blog.521567.xyz/post/workwxin/</link>
+      <link>https://blog.521567.xyz/post/workwxin/</link>
       <pubDate>Tue, 24 Jun 2025 13:41:07 +0800</pubDate>
-      <guid>http://blog.521567.xyz/post/workwxin/</guid>
+      <guid>https://blog.521567.xyz/post/workwxin/</guid>
       <description>&lt;h4 id=&#34;太累了本篇教程现在没有教程先占位日后更新&#34;&gt;太累了本篇教程现在没有教程，先占位，日后更新&lt;/h4&gt;</description>
     </item>
     <item>
       <title>Yuanshen</title>
-      <link>http://blog.521567.xyz/post/yuanshen/</link>
+      <link>https://blog.521567.xyz/post/yuanshen/</link>
       <pubDate>Tue, 24 Jun 2025 13:34:12 +0800</pubDate>
-      <guid>http://blog.521567.xyz/post/yuanshen/</guid>
+      <guid>https://blog.521567.xyz/post/yuanshen/</guid>
       <description>&lt;h4 id=&#34;给你的网站添加原神启动&#34;&gt;给你的网站添加原神启动&lt;/h4&gt;&#xA;&lt;p&gt;在你主题合适的位置添加以下代码，我放的是layouts\partials\home.html&lt;/p&gt;</description>
     </item>
     <item>
       <title>本站主题主题教程</title>
-      <link>http://blog.521567.xyz/post/%E6%9C%AC%E7%AB%99%E4%B8%BB%E9%A2%98%E4%B8%BB%E9%A2%98%E6%95%99%E7%A8%8B/</link>
+      <link>https://blog.521567.xyz/post/%E6%9C%AC%E7%AB%99%E4%B8%BB%E9%A2%98%E4%B8%BB%E9%A2%98%E6%95%99%E7%A8%8B/</link>
       <pubDate>Tue, 24 Jun 2025 13:06:53 +0800</pubDate>
-      <guid>http://blog.521567.xyz/post/%E6%9C%AC%E7%AB%99%E4%B8%BB%E9%A2%98%E4%B8%BB%E9%A2%98%E6%95%99%E7%A8%8B/</guid>
+      <guid>https://blog.521567.xyz/post/%E6%9C%AC%E7%AB%99%E4%B8%BB%E9%A2%98%E4%B8%BB%E9%A2%98%E6%95%99%E7%A8%8B/</guid>
       <description></description>
     </item>
     <item>
       <title>原版主题教程</title>
-      <link>http://blog.521567.xyz/post/%E5%8E%9F%E7%89%88%E4%B8%BB%E9%A2%98%E6%95%99%E7%A8%8B/</link>
+      <link>https://blog.521567.xyz/post/%E5%8E%9F%E7%89%88%E4%B8%BB%E9%A2%98%E6%95%99%E7%A8%8B/</link>
       <pubDate>Tue, 24 Jun 2025 13:06:41 +0800</pubDate>
-      <guid>http://blog.521567.xyz/post/%E5%8E%9F%E7%89%88%E4%B8%BB%E9%A2%98%E6%95%99%E7%A8%8B/</guid>
+      <guid>https://blog.521567.xyz/post/%E5%8E%9F%E7%89%88%E4%B8%BB%E9%A2%98%E6%95%99%E7%A8%8B/</guid>
       <description></description>
     </item>
     <item>
       <title>Me</title>
-      <link>http://blog.521567.xyz/post/me/</link>
+      <link>https://blog.521567.xyz/post/me/</link>
       <pubDate>Tue, 24 Jun 2025 12:28:10 +0800</pubDate>
-      <guid>http://blog.521567.xyz/post/me/</guid>
+      <guid>https://blog.521567.xyz/post/me/</guid>
       <description>&lt;p&gt;关于我&lt;/p&gt;</description>
     </item>
     <item>
       <title>给自己的Hugo添加不蒜子浏览次数与阅读次数统计</title>
-      <link>http://blog.521567.xyz/post/hugo-busuanzi/</link>
+      <link>https://blog.521567.xyz/post/hugo-busuanzi/</link>
       <pubDate>Tue, 24 Jun 2025 12:06:37 +0800</pubDate>
-      <guid>http://blog.521567.xyz/post/hugo-busuanzi/</guid>
+      <guid>https://blog.521567.xyz/post/hugo-busuanzi/</guid>
       <description>&lt;p&gt;在head.html，footer.html，single.html，config.toml进行修改&lt;/p&gt;&#xA;&lt;p&gt;head.html&#xA;我的的路径为layouts\partials\head.html&#xA;添加以下代码&lt;/p&gt;</description>
     </item>
     <item>
       <title>One</title>
-      <link>http://blog.521567.xyz/post/one/</link>
+      <link>https://blog.521567.xyz/post/one/</link>
       <pubDate>Tue, 24 Jun 2025 05:49:46 +0800</pubDate>
-      <guid>http://blog.521567.xyz/post/one/</guid>
+      <guid>https://blog.521567.xyz/post/one/</guid>
       <description>&lt;h2 id=&#34;这是给自己的一篇-hugo-文章各种配置示例&#34;&gt;这是给自己的一篇 hugo 文章各种配置示例。&lt;/h2&gt;</description>
     </item>
   </channel>
