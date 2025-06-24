@@ -3,6 +3,18 @@
   <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width" />
+
+  
+  <meta name="keywords" content="Xtn,XtnAPI,xtnblog,喃娘博客,喃娘blog,xtn博客,夏透喃的博客">
+
+
+<meta property="og:title" content="404 Page not found - Xtn Blog">
+<meta name="apple-mobile-web-app-title" content="404 Page not found - Xtn Blog">
+
+
+<meta name="description" content="接受真实的自己，顺其自然">
+<meta property="og:description" content="接受真实的自己，顺其自然">
+
   <script
     type="application/javascript"
     src='https://blog.521567.xyz/js/theme-mode.js'
@@ -14,15 +26,13 @@
   <link rel="stylesheet" href='https://blog.521567.xyz/css/dark.css' />
   <link rel="stylesheet" href='https://blog.521567.xyz/css/syntax.css' />
   
+  <link rel="stylesheet" href="/your%20css%20file%20name" />
+  
   <title>
     404 Page not found | Xtn Blog
   </title>
   
-  <link
-    rel="icon"
-    type="image/x-icon"
-    href='https://blog.521567.xyz/images/favicon.ico'
-  />
+  <link rel="icon" type="image/x-icon" href="/images/avatar.png" />
   
   <meta name="theme-color" content="#1e2327" />
 
@@ -174,7 +184,7 @@
         <div class="position-relative">
           <form
             target="_blank"
-            action="https://cn.bing.com/search"
+            action="https:///search"
             accept-charset="UTF-8"
             method="get"
             autocomplete="off"
@@ -479,7 +489,7 @@
         localStorage.setItem("keyword", keyword);
         fetch(
           `${
-            host.indexOf("blog.521567.xyz") > -1 ? "http://" : "https://"
+            host.indexOf("localhost") > -1 ? "http://" : "https://"
           }${host}/index.xml`
         )
           .then((resp) => resp.text())

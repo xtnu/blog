@@ -2,20 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.521567.xyz/post/1/</loc>
-    <lastmod>2025-06-23T06:51:38+08:00</lastmod>
+    <loc>https://blog.521567.xyz/post/one/</loc>
+    <lastmod>2025-06-24T05:49:46+08:00</lastmod>
   </url><url>
     <loc>https://blog.521567.xyz/post/</loc>
-    <lastmod>2025-06-23T06:51:38+08:00</lastmod>
+    <lastmod>2025-06-24T05:49:46+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.521567.xyz/tags/</loc>
+    <lastmod>2025-06-24T05:49:46+08:00</lastmod>
   </url><url>
     <loc>https://blog.521567.xyz/</loc>
+    <lastmod>2025-06-24T05:49:46+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.521567.xyz/tags/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</loc>
+    <lastmod>2025-06-24T05:49:46+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.521567.xyz/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2025-06-24T05:49:46+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.521567.xyz/post/1/</loc>
     <lastmod>2025-06-23T06:51:38+08:00</lastmod>
   </url><url>
     <loc>https://blog.521567.xyz/post/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2025-06-23T06:43:06+08:00</lastmod>
   </url><url>
     <loc>https://blog.521567.xyz/categories/</loc>
-  </url><url>
-    <loc>https://blog.521567.xyz/tags/</loc>
   </url>
 </urlset>

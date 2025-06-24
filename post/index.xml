@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Xtn Blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 23 Jun 2025 06:51:38 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2025 05:49:46 +0800</lastBuildDate>
     <atom:link href="https://blog.521567.xyz/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>One</title>
+      <link>https://blog.521567.xyz/post/one/</link>
+      <pubDate>Tue, 24 Jun 2025 05:49:46 +0800</pubDate>
+      <guid>https://blog.521567.xyz/post/one/</guid>
+      <description>&lt;p&gt;这是给自己的一篇hugo文章各种配置示例。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>1</title>
       <link>https://blog.521567.xyz/post/1/</link>
