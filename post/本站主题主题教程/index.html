@@ -459,25 +459,21 @@ The settings in <em>config.toml</em> might look like this:</p>
 <script type="application/javascript" src='https://blog.521567.xyz/js/toc.js'></script>
 <link rel="stylesheet" href='https://blog.521567.xyz/css/toc.css' />
 
-<div id="gitalk-container" class="gitalk-container"></div>
-<link rel="stylesheet" href='https://blog.521567.xyz/css/gitalk.css'>
-<script src='https://blog.521567.xyz/js/gitalk.min.js'></script>
+
+  <div id="tcomment"></div>
+<script src="https://cdn.staticfile.org/twikoo/1.6.16/twikoo.all.min.js"></script>
 <script>
-  const gitalk = new Gitalk({
-    accessToken: 'Your Github access token',
-    repo: 'kurt-liao.github.io',
-    owner: 'kurt-liao',
-    admin: ['kurt-liao'],
-    id: eval("location.pathname"), 
-    distractionFreeMode: false 
-  });
-  (function() {
-    gitalk.render('gitalk-container');
-  })();
+twikoo.init({
+  envId: 'https://twikoo.521567.xyz/', 
+  el: '#tcomment', 
+  
+  
+  
+})
 </script>
 
 
-  
+
 <div class="footer container-xl width-full p-responsive">
   
   <div
