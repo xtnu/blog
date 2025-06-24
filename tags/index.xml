@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Xtn Blog</title>
-    <link>http://192.168.10.88/tags/</link>
+    <link>http://blog.521567.xyz/tags/</link>
     <description>Recent content in Tags on Xtn Blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 24 Jun 2025 05:49:46 +0800</lastBuildDate>
-    <atom:link href="http://192.168.10.88/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.521567.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>测试文章</title>
-      <link>http://192.168.10.88/tags/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</link>
+      <link>http://blog.521567.xyz/tags/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</link>
       <pubDate>Tue, 24 Jun 2025 05:49:46 +0800</pubDate>
-      <guid>http://192.168.10.88/tags/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</guid>
+      <guid>http://blog.521567.xyz/tags/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</guid>
       <description></description>
     </item>
     <item>
       <title>随笔</title>
-      <link>http://192.168.10.88/tags/%E9%9A%8F%E7%AC%94/</link>
+      <link>http://blog.521567.xyz/tags/%E9%9A%8F%E7%AC%94/</link>
       <pubDate>Tue, 24 Jun 2025 05:49:46 +0800</pubDate>
-      <guid>http://192.168.10.88/tags/%E9%9A%8F%E7%AC%94/</guid>
+      <guid>http://blog.521567.xyz/tags/%E9%9A%8F%E7%AC%94/</guid>
       <description></description>
     </item>
   </channel>
