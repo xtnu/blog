@@ -321,9 +321,9 @@
                         </div>
                       </div>
                     </details-menu>
-                      496 Words
+                      602 Words
                     <span class="file-info-divider"></span>
-                                        2 min
+                                        3 min
 
 <span class="file-info-divider"></span>
   <span id="busuanzi_container_page_pv">本文总计阅读<span id="busuanzi_value_page_pv"></span>次</span>
@@ -357,7 +357,7 @@
 
 
               <div class="Box-body px-5 pb-5" style="z-index: 1">
-                <article class="markdown-body entry-content container-lg"><h1 id="这是给自己的一篇-hugo-文章各种配置示例">这是给自己的一篇 hugo 文章各种配置示例。</h1>
+                <article class="markdown-body entry-content container-lg"><h2 id="这是给自己的一篇-hugo-文章各种配置示例">这是给自己的一篇 hugo 文章各种配置示例。</h2>
 <p>代码折叠</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>{{&lt; <span style="color:#f92672">details</span> <span style="color:#960050;background-color:#1e0010">&#34;</span><span style="color:#a6e22e">summary</span> <span style="color:#a6e22e">title</span><span style="color:#960050;background-color:#1e0010">&#34;</span> &gt;}}
 </span></span><span style="display:flex;"><span>    内容
@@ -370,7 +370,22 @@
 <p>我的主题自动摘要功能失效了，所以只能手动摘要了。</p>
 <p>&lt; !&ndash;more&ndash; &gt;标签之前的内容将作为摘要部分，效果与自动生成相同,
 因为Hugo渲染的问题，&lt; !&ndash;more&ndash; &gt;标签的&lt;和&gt;都添加了一个空格，实际使用请删除空格。</p>
-<h2 id="杂七杂八">杂七杂八</h2>
+<h2 id="前言数据">前言数据</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>+++
+</span></span><span style="display:flex;"><span>创建时间
+</span></span><span style="display:flex;"><span>date = &#39;2025-06-24T05:49:46+08:00&#39;
+</span></span><span style="display:flex;"><span>关闭草稿
+</span></span><span style="display:flex;"><span>draft = false
+</span></span><span style="display:flex;"><span>文章标题
+</span></span><span style="display:flex;"><span>title = &#39;One&#39;
+</span></span><span style="display:flex;"><span>文章置顶
+</span></span><span style="display:flex;"><span>pin = true
+</span></span><span style="display:flex;"><span>文章关键词
+</span></span><span style="display:flex;"><span>keywords = [&#34;xtn&#34;, &#34;喃娘&#34;, &#34;测试&#34;]
+</span></span><span style="display:flex;"><span>文章tas标签
+</span></span><span style="display:flex;"><span>tags = [&#34;随笔&#34;, &#34;测试文章&#34;]
+</span></span><span style="display:flex;"><span>+++
+</span></span></code></pre></div><h2 id="杂七杂八">杂七杂八</h2>
 <p>Hugo如果需要携带文件打包，请放到主题的static目录下，比如我的主题的static目录下有img目录，那么我就可以在文章中引用img目录下的图片了。</p>
 <p>不能总抱着一台电脑编辑文章吧，这里我的方案是使用 webdav 等同步，或者直接放到OneDrive直接多设备自动同步。</p>
 <p>对于部署到Github Pages，还没有使用过，我是直接使用GitHub Desktop，git blog仓库到 public/blog目录下，每次渲染文章后，一键放把public渲染后的文件移动到blog目录，然后打开GitHub Desktop，点击push，就会智能同步修改后的文件到Github Pages了。</p></article>
