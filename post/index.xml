@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Xtn Blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 24 Jun 2025 14:25:52 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 11:43:54 +0800</lastBuildDate>
     <atom:link href="https://blog.521567.xyz/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>基于Tg与PHP的简单图床</title>
+      <link>https://blog.521567.xyz/post/tglegram-php-img/</link>
+      <pubDate>Thu, 26 Jun 2025 11:43:54 +0800</pubDate>
+      <guid>https://blog.521567.xyz/post/tglegram-php-img/</guid>
+      <description>&lt;p&gt;是这样的，一直再搞图床，先是 github pages ，听说有封号风险，也没什么依赖图床的。就丢弃了.&lt;br&gt;&#xA;然后就是搞了个 webdav 图床，去薅谷歌与微软教育，和一些基于cloudreve的网盘，或者是alist挂载网盘，&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Clouddlare IP</title>
       <link>https://blog.521567.xyz/post/cloudflareip/</link>
