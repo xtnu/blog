@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Xtn Blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Jun 2025 11:43:54 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jun 2025 20:26:28 +0800</lastBuildDate>
     <atom:link href="https://blog.521567.xyz/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>联系Xtn</title>
+      <link>https://blog.521567.xyz/post/feedback/</link>
+      <pubDate>Sun, 29 Jun 2025 20:26:28 +0800</pubDate>
+      <guid>https://blog.521567.xyz/post/feedback/</guid>
+      <description>联系Xtn</description>
+    </item>
     <item>
       <title>基于Tg与PHP的简单图床</title>
       <link>https://blog.521567.xyz/post/tglegram-php-img/</link>
