@@ -1,0 +1,48 @@
+.highlight {
+  position: relative;
+}
+
+.copy-code-button {
+  color: white;
+  background: linear-gradient(135deg, rgba(63, 94, 251, 0) 0%, rgba(252, 70, 255, 0) 100%);
+  border: none;
+  border-radius: 12px; /* 更圆润的按钮 */
+  padding: 8px 12px;
+  font-size: 1rem;
+  position: absolute;
+  z-index: 1;
+  right: 10px;
+  top: 10px;
+  transition: all 0.3s ease; /* 平滑过渡 */
+  opacity: 0.8;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* 加点阴影 */
+}
+
+.copy-code-button > svg {
+  fill: white;
+  transition: transform 0.2s ease; /* 动画效果 */
+}
+
+.copy-code-button:hover,
+.copy-code-button:focus,
+pre:active ~ .copy-code-button,
+pre:focus ~ .copy-code-button,
+div.highlight:active > .copy-code-button,
+div.highlight:focus > .copy-code-button {
+  cursor: pointer;
+  opacity: 1;
+  transform: scale(1.1); /* 放大效果 */
+}
+
+.copy-code-button:active {
+  transform: scale(0.95); /* 按下时按钮稍微缩小 */
+}
+
+.copy-code-button:focus {
+  outline: none; /* 去掉焦点框 */
+}
+
+.copy-code-button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
