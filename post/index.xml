@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Xtn Blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 29 Jun 2025 20:26:28 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 11:30:46 +0800</lastBuildDate>
     <atom:link href="https://blog.521567.xyz/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VRchat自定义缓存目录</title>
+      <link>https://blog.521567.xyz/post/vrchatcache/</link>
+      <pubDate>Tue, 01 Jul 2025 11:30:46 +0800</pubDate>
+      <guid>https://blog.521567.xyz/post/vrchatcache/</guid>
+      <description>众所周知，VRchat默认缓存到C盘，很容易造成C盘爆红，今天开机发现电脑卡卡的，我一看，嚯~C盘就2GB可用了，属实是红透半边天</description>
+    </item>
     <item>
       <title>联系Xtn</title>
       <link>https://blog.521567.xyz/post/feedback/</link>
